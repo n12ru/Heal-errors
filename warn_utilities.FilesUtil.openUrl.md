@@ -1,7 +1,9 @@
 #### ERROR: [warn] utilities.FilesUtil.openUrl 
 
 [warn] Невозможно получить данные из https://URL
+
 [warn] utilities.FilesUtil.openUrl
+
 [warn] javax.net.ssl.SSLHandshakeException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
 
 
